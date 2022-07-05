@@ -1,0 +1,15 @@
+.col {
+    background-color: blueviolet;
+    border: 1px solid black;
+    height: 250px;
+}
+
+.card {
+    height: 80%;
+    width: 80%;
+    
+}
+
+.card:hover {
+    box-shadow: 5px 10px #888888;
+}
